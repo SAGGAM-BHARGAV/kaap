@@ -4,5 +4,11 @@
     "name": "k",
     "price": 6,
     "image": "https://res.cloudinary.com/dj0u6aez5/image/upload/v1741500907/IMG-20250309-WA0004_k40rij.jpg"
+  },
+  {
+    "id": 1741626783990,
+    "name": "mhk",
+    "price": 88,
+    "image": "https://res.cloudinary.com/dj0u6aez5/image/upload/v1741500849/IMG-20250309-WA0015_zcypvr.jpg"
   }
 ]
